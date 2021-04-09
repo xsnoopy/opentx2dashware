@@ -1,6 +1,6 @@
 # This is a Python script to convert OpenTX telemetry logs and prepare them to
 # be used as overlays for Dashware.
-# Author Michael - Michael@believeinrelaty.com
+# Author Michael - Michael (at) believeinrealty.com
 # Version 0.1
 
 import os
